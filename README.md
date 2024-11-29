@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.vectorstock.com/i/1000v/23/07/web-blue-banner-software-ui-and-development-vector-42172307.avif)]
+[![MasterHead](https://i.pinimg.com/1200x/71/b8/59/71b8597599e9f5d7fa269dfdfff73367.jpg)]
 <h1 align="center">Hi 👋, I'm Kefiyalew Kunta</h1>
 <h3 align="center">A passionate full-stack developer from Ethiopia</h3>
 <img align="right" src="https://www.google.com/imgres?q=animation%20image%20gif%20coder&imgurl=https%3A%2F%2Fsteamuserimages-a.akamaihd.net%2Fugc%2F1631947648964785474%2F81CBA15178466DD47195A239232202E78987B714%2F%3Fimw%3D512%26%26ima%3Dfit%26impolicy%3DLetterbox%26imcolor%3D%2523000000%26letterbox%3Dfalse&imgrefurl=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2217383700&docid=OqQy2CDVrLaFHM&tbnid=NPo9F208bewIPM&vet=12ahUKEwj9g4qJ_oGKAxUN-QIHHeZ9HRoQM3oECFoQAA..i&w=256&h=256&hcb=2&ved=2ahUKEwj9g4qJ_oGKAxUN-QIHHeZ9HRoQM3oECFoQAA">
